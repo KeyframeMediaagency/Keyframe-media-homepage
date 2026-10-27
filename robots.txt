@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://keyframemedia.netlify.app/sitemap.xml
+Sitemap: https://keyframemedia.us/sitemap.xml
